@@ -9,4 +9,6 @@ DDR/SDR: Double/Single data rate  (https://en.wikipedia.org/wiki/Double_data_rat
 Nyquist Limit:  
 https://en.wikipedia.org/wiki/Nyquist_frequency  
 https://en.wikipedia.org/wiki/Nyquist_rate  
-
+  
+  
+Feel free to share! I also included the SVG source file if you want to do modification or copy the plots.
