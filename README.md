@@ -1,4 +1,4 @@
-# Gbps__GHz__rise_Time__clarification
+# Gbps, GHz, and Rise Time Clarification
 Clarifying the relation between Gbps, GHz and Rise Time
 
 Some terminology:  
